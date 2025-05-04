@@ -22,8 +22,8 @@ Este projeto é uma simulação simples de uma **maquininha de pagamento**, feit
 Abra o terminal e execute o comando para clonar o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/simulador-maquininha.git
-cd simulador-maquininha
+git clone https://github.com/BrunoCastroTomaz/SimuladorMaquininha.git
+cd SimuladorMaquininha
 ```
 
 ### 3. Compilar o código
