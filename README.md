@@ -14,7 +14,7 @@ Este projeto é uma simulação simples de uma **maquininha de pagamento**, feit
 
 ### 1. Requisitos
 
-- **Kotlin** instalado (se ainda não tiver, siga as instruções [aqui](https://kotlinlang.org/docs/tutorials/command-line.html)).
+- **Kotlin** ( [aqui](https://kotlinlang.org/docs/tutorials/command-line.html)).
 - **JDK 8+** (Java Development Kit).
 
 ### 2. Clonar o repositório
